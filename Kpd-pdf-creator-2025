@@ -1,5 +1,0 @@
-git add .
-git commit -m "Initial commit - KDP PDF Creator"
-git branch -M main
-git remote add origin https://github.com/tuousername/kdp-pdf-creator.git
-git push -u origin main

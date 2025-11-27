@@ -1,0 +1,30 @@
+## 💰 **MODELLI DI PREZZO**
+
+### 🔰 **Base Plan - $4.99**
+- PDF KDP formato 6"x9"
+- Margini professionali
+- Contenuti multimediali base
+- QR codes YouTube
+
+### ⭐ **Premium Plan - $9.99**
+- Tutto del Base Plan
+- **Cover Creator Professionale**
+- **Audiolibro completo**
+- Template premium
+
+### 👑 **Complete Plan - $14.99**
+- Tutto del Premium Plan
+- **Supporto prioritario 24/7**
+- **Template esclusivi**
+
+## 🛠️ **TECNOLOGIE UTILIZZATE**
+- **Next.js 16** + **React 19.2** + **TypeScript**
+- **Tailwind CSS** + **Fabric.js** + **Web Speech API**
+- **PDF-lib** + **Stripe** + **i18next** + **QRCode.js**
+
+## 📋 **REQUISITI KDP AMAZON**
+✅ Formato 6" x 9" (15.24 x 22.86 cm)
+✅ Margini 0.75" per libri sotto 150 pagine
+✅ Risoluzione minima 300 DPI
+✅ Font leggibili (minimo 24pt)
+✅ Spine calcolo automatico
