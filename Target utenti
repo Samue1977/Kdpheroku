@@ -1,0 +1,18 @@
+## 🎯 **TARGET UTENTI**
+- **Autori Indipendenti** - Scrittori self-publishing
+- **Case Editrici** - Editor professionali  
+- **Imprenditori Digitali** - Creator di corsi online
+
+## 🚀 **INSTALLAZIONE E SETUP**
+
+### **Prerequisiti**
+- Node.js >= 18.19.0
+- npm o yarn
+- Account Stripe per pagamenti
+
+### **Installazione**
+```bash
+git clone https://github.com/Samue1977/Kdpheroku.git
+cd Kdpheroku
+npm install
+npm run dev
